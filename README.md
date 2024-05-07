@@ -6,3 +6,4 @@ I'm currently studying on the Alura platform, while learning about JavaScript.
 I'll mostly use this space to share my projects/work, so don't say silly things, okay?
 
 ## If you want to talk to me, here's my E-Mail.
+00001113504584sp@al.educacao.sp.gov.br
